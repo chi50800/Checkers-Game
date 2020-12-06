@@ -1,2 +1,2 @@
 # Checkers-Game
-Its a human vs human checkers game in pygame.
+Its a human vs human and Bot vs Bot checkers game in pygame.
